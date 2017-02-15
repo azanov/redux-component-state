@@ -1,4 +1,4 @@
-import isPlainObject from 'redux/lib/utils/isPlainObject';
+import isPlainObject from 'is-plain-object';
 import { filterPrivateField } from './filters';
 /*
    let config = {
